@@ -8549,8 +8549,10 @@
       "symbol": "SOHO",
       "name": "Sol House",
       "decimals": 9,
-      "logoURI": "https://cryptocurrencies.ai/logo.png",
-      "tags": [],
+      "logoURI": "https://cdn.jsdelivr.net/gh/borocode/token-list@main/assets/test.jpg",
+      "tags": [
+        "nft"
+      ],
       "extensions": {
         "website": "https://boroghor.com",
         "twitter": "https://twitter.com/boroghor"
